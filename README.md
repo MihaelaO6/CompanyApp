@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # CompanyApp
-=======
 # CompanyApp API Documentation
 This project provides a RESTful API for managing `Company`, `Country`, and `Contact` entities. It supports CRUD operations, with services and controllers unit-tested using Moq and XUnit.
 
@@ -103,4 +101,4 @@ dotnet test
 
 -- The test results will be displayed in the console 
 
->>>>>>> master
+
